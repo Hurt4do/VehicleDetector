@@ -16,7 +16,7 @@ while True:
 
     # Convertir a escala de grises
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-
+    #a
     # Aplicar un desenfoque Gaussiano
     # blur = cv2.GaussianBlur(gray, (2, 2), 0)
 
